@@ -1,0 +1,2 @@
+# Genshin
+Self Made Genshin
